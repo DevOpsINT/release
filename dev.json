@@ -2,7 +2,7 @@
 	"release" : {
 		"services" : {
 			"experiment" : {
-				"version" : "1.0.111111111",
+				"version" : "1.0.1111111111",
 				"instance" : "ipaddr"
 			}
 		}
